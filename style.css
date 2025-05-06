@@ -21,6 +21,9 @@
     height: 660px;
 } 
 
+.mdl{
+    margin-top: 50px;
+}
 .icon{
     height: 270px;
     width:270px;
@@ -57,15 +60,19 @@
    
   }
   .footer{
-    height:369px;
+    /* height:369px; */
     background-color: #17161a;
     color:white;
   }
-  .bottom{
+  /* .bottom{
     display: flex;
     justify-content: space-between;
     margin-top: 100px;
-  }
+  } */
   .footer-text{
     margin-top: 50px;
+    
   }
+.copyright{
+    padding-bottom: 60px;
+} 
